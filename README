@@ -1,0 +1,2 @@
+Nothing too fancy, just change the configurable values inside code to connect to your specified server/port with given nickname.
+It doesn't even have support for nick password yet so pick a random unused nickname. :-)
